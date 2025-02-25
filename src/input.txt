@@ -1,0 +1,5 @@
+Go is a statically typed, compiled programming language. Go is designed at Google.
+Go is syntactically similar to C but with memory safety, garbage collection,
+structural typing, and CSP-style concurrency.
+Concurrency is not parallelism. Concurrency is about dealing with lots of things at once.
+Parallelism is about doing lots of things at once.
